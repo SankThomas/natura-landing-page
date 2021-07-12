@@ -1,5 +1,7 @@
 # Natura Conservation Landing Page
 
+![natura-landing-page](desktop-design.jpg)
+
 ## Font
 
 `Raleway` is the font of choice for this project. Font weights are Regular - 400 for the paragraphs and the bold - 800 for the headings.
